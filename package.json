@@ -5,7 +5,7 @@
   "homepage": "https://Vadim-Kostetskyi.github.io/Cocktail-Bar-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Cocktail-Bar-project/"
+    "build": "CI=false && parcel build src/*.html --public-url /Cocktail-Bar-project/"
   },
   "repository": {
     "type": "git",
