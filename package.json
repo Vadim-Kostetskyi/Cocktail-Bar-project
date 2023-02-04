@@ -1,21 +1,21 @@
 {
-  "name": "cocktail_Bar_project",
+  "name": "Cocktail-Bar-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Dr-Artem.github.io/cocktail_Bar_project",
+  "homepage": "https://Vadim-Kostetskyi.github.io/Cocktail-Bar-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /cocktail_Bar_project/"
+    "build": "parcel build src/*.html --public-url /Cocktail-Bar-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dr-Artem/cocktail_Bar_project.git"
+    "url": "git+https://github.com/Vadim-Kostetskyi/Cocktail-Bar-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dr-Artem/cocktail_Bar_project/issues"
+    "url": "https://github.com/Vadim-Kostetskyi/Cocktail-Bar-project/issues"
   },
   "dependencies": {
     "axios": "^1.2.2",
