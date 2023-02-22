@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dr-Artem/cocktail-Bar-project.git"
+    "url": "git+https://github.com/Vadim-Kostetskyi/cocktail-Bar-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dr-Artem/cocktail-Bar-project/issues"
+    "url": "https://github.com/Vadim-Kostetskyi/cocktail-Bar-project/issues"
   },
   "dependencies": {
     "axios": "^1.2.2",
